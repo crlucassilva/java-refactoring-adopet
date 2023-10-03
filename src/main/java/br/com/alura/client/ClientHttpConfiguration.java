@@ -1,4 +1,4 @@
-package br.com.alura.service.client;
+package br.com.alura.client;
 
 import com.google.gson.Gson;
 

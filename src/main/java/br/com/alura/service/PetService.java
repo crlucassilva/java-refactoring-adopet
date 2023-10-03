@@ -1,7 +1,7 @@
 package br.com.alura.service;
 
 import br.com.alura.domain.Pet;
-import br.com.alura.service.client.ClientHttpConfiguration;
+import br.com.alura.client.ClientHttpConfiguration;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.BufferedReader;

@@ -2,7 +2,7 @@ package br.com.alura;
 
 import br.com.alura.service.AbrigoService;
 import br.com.alura.service.PetService;
-import br.com.alura.service.client.ClientHttpConfiguration;
+import br.com.alura.client.ClientHttpConfiguration;
 
 import java.util.Scanner;
 
